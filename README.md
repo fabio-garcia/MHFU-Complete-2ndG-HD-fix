@@ -7,7 +7,7 @@ Personal small edit for [theALXm](https://github.com/theALXm/2ndG_ULTIMATE), [th
 Download by cloning the repository or by clicking [here](https://github.com/fabio-garcia/MHFU-Complete-2ndG-HD-fix/archive/refs/heads/master.zip).
 
 Move root folder to memstick\PSP\TEXTURES. Change folder name depending on your game ID:
-- ULUS10391 - Monster Hunter Freedom Unite
+- ULUS10391 - Monster Hunter Freedom Unite US version
 - ULJM05500 - Complete/2nd G
 
 
